@@ -2,15 +2,16 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.All-img {
+  position: relative;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.Txt-box {
+  position: absolute;
+  background-color: black;
+  top: 65%;
+  width: 65%;
+  height: 30%;
 }
 
 .App-header {
